@@ -24,3 +24,7 @@
  git switch <nombre de la rama>
  git switch - (te moves a la rama anterior que estabas)
  ```
+## ver ramas que estan locales remotas
+```sh
+git branch -a
+```
