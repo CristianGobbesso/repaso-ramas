@@ -33,3 +33,10 @@ git branch -a
 ```sh
  git merge <nombre la rama que me quiero traer> (parado en la rama a la cual le quiero agregar la otra rama)
  ```
+## borrar una rama
+```sh
+git branch -d <nombre de la rama> (si esta fusionada)
+git branch -D <nombre de la rama> (si no esta fusionada)
+```
+
+
