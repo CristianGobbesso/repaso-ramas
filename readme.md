@@ -28,3 +28,8 @@
 ```sh
 git branch -a
 ```
+## fuisonar ramas
+```sh
+ git merge <nombre la rama que me quiero traer> (parado en la rama a la cual le quiero agregar la otra rama)
+ ```
+ 
