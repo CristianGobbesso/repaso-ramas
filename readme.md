@@ -28,8 +28,8 @@
 ```sh
 git branch -a
 ```
-## fuisonar ramas
+## fuisonar ramas 
+### fusion fast-foward (lo hace git por mi)
 ```sh
  git merge <nombre la rama que me quiero traer> (parado en la rama a la cual le quiero agregar la otra rama)
  ```
- 
