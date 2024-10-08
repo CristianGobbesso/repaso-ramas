@@ -38,5 +38,8 @@ git branch -a
 git branch -d <nombre de la rama> (si esta fusionada)
 git branch -D <nombre de la rama> (si no esta fusionada)
 ```
-
+## abortar la fusion
+```sh
+git merge --abort
+```
 
