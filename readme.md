@@ -22,5 +22,5 @@
  ### moverse entre ramas 
 ```sh
  git switch <nombre de la rama>
+ git switch - (te moves a la rama anterior que estabas)
  ```
- 
